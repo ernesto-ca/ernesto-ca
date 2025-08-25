@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">I'm very into create Native and Hybrid Apps as well as Websites of any kind. I super enjoy designing scalable and clean code in a fast environment.</p>
+<p align="left">I'm very into creating Native and Hybrid Apps as well as Websites of any kind. I super enjoy designing scalable and clean code in a fast environment.</p>
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Flutter, React, more about Android trends. and a Master in Data Science & AI.<br>- 💬 Ask me about Videogames, Android, A.I., and Cybersecurity 🔐<br>- ⚡ Fun fact: The first time I tried programming was creating video games. 🕹️</p>
+<p align="left">- 🌱 I’m currently learning Flutter, React, and more about Android trends. and a Master's in Data Science & AI.<br>- 💬 Ask me about Videogames, Android, AI, and Cybersecurity 🔐<br>- ⚡ Fun fact: The first time I tried programming was creating video games. 🕹️</p>
 
 ###
 
